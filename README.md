@@ -64,8 +64,8 @@ Usa los scripts SQL para crear y poblar la base de datos.
 
 Consulta los diagramas y la documentación para comprender el diseño.
 
-Autores
-Martín [Apellido] – Seminario de Práctica, 2025
+Autor
+Martín Alejandro Vera – Seminario de Práctica, 2025 - Universidad Siglo21, Argentina
 
 Licencia
 Este proyecto se entrega con fines educativos y puede ser reutilizado citando al autor.
